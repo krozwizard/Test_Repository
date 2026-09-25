@@ -32,6 +32,11 @@ Outside the law, I follow technology closely, especially artificial intelligence
 - Served as Vice Minister of Justice of Korea
 - About 15 years in private practice as a senior partner at Kim & Chang
 
+## Personal
+
+- **Hobby**: Traveling
+- **Favorite food**: Pizza
+
 ---
 
 # 한국어
@@ -63,3 +68,8 @@ Outside the law, I follow technology closely, especially artificial intelligence
 - 25년 이상 검사로 재직
 - 대한민국 법무부 차관 역임
 - 김·장 법률사무소 시니어 파트너로 약 15년간 활동
+
+## 개인적인 이야기
+
+- **취미**: 여행
+- **좋아하는 음식**: 피자
