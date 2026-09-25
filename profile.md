@@ -34,8 +34,8 @@ Outside the law, I follow technology closely, especially artificial intelligence
 
 ## Personal
 
-- **Hobby**: Traveling
-- **Favorite food**: Pizza
+- **Hobby**: Traveling, especially to Japan. I am very fond of Japanese food, culture and scenery.
+- **Favorite food**: Pizza. Margherita, pepperoni, Neapolitan: I love them all.
 
 ---
 
@@ -71,5 +71,5 @@ Outside the law, I follow technology closely, especially artificial intelligence
 
 ## 개인적인 이야기
 
-- **취미**: 여행
-- **좋아하는 음식**: 피자
+- **취미**: 여행, 특히 일본 여행. 일본 음식과 문화, 풍경을 무척 좋아합니다.
+- **좋아하는 음식**: 피자. 마르게리타, 페퍼로니, 나폴리 피자 등 종류를 가리지 않고 모두 좋아합니다.
