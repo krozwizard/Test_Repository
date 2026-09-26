@@ -24,6 +24,10 @@ Pull these from the request. Ask only for what is missing and cannot be defaulte
 | Travel agent / package, vouchers | no | none, booked directly |
 | Golf | no | no golf unless mentioned |
 
+If the user attaches notes (flights, travel mates, purpose, dinner wishes, packing additions), they override defaults and earlier assumptions: rework the itinerary around them, not just the matching table row. Check opening days of every sight and restaurant against the day of the week it is scheduled.
+
+This repository is public. In plan files, refer to companions by surname only and never write booking or reservation numbers, passport numbers or phone numbers of people; tell the user they were left out.
+
 If the user attaches booking notes, tickets or hotel confirmations, take flight numbers, times and the hotel from them. When an attached image did not come through, say so and mark those fields "TBD — confirm".
 
 ## 2. Read the traveler's context

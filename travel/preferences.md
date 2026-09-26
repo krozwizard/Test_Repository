@@ -20,6 +20,7 @@ Standing preferences the `travel-plan` skill applies to every trip. Edit anythin
 - **Pace**: relaxed (2 to 3 main activities per day)
 - **Getting around**: public transit and taxis
 - **Dietary notes**:
+- **Health**: Seasonal allergies (these caused a lot of trouble on the May 2026 Greece trip). For any trip at a change of season (spring, autumn), pack cetirizine, a second-generation antihistamine, in carry-on.
 - **Must include**: local cuisine every day; a good pizza place once per trip
 
 ## Documents
